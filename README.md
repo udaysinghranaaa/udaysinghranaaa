@@ -1,26 +1,23 @@
 <img align="right" src="https://img.shields.io/badge/Visitors-6000-blue?style=flat-square" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Uday+Singh+Rana!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Uday+Singh+Rana!;" />
 </h1>
 
-<h3 align="center">A passionate Full Stack MERN Developer from India 🇮🇳</h3>
+<h3 align="center">Full Stack MERN Developer | India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
 
- 🔭 I’m currently working on **DSA Tracker & Portfolio Website**
-
- 🌱 I’m currently learning **Data Structures, System Design, TypeScript**
-
- 💬 Ask me about **React, Node.js, MongoDB, Firebase, or DSA**
-
- ⚡ Fun fact **I believe clean code is poetry in motion**
+🔭 Working on: **DSA Tracker & Portfolio Website**  
+🌱 Learning: **Data Structures, System Design, TypeScript**  
+💬 Ask me about: **React, Node.js, MongoDB, Firebase, DSA**  
+⚡ Fun fact: **Clean code feels like poetry**
 
 </div>
 
-<div align="center"> 
+<div align="center">
   <a href="mailto:udaysinghrana.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -44,15 +41,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/udaysinghrana/udaysinghrana/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -66,10 +54,4 @@
 
 <hr/>
 
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
+<h3 align="center">🚀 Let's build something amazing together!</h3>
